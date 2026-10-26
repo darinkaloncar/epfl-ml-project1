@@ -1,0 +1,37 @@
+# Dataset (large, provided by course)
+data/
+
+# Generated predictions
+submission.csv
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.toc
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Always track everything in these folders
+!latex-example-paper/**
+!grading_tests/**
