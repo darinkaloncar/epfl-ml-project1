@@ -1,0 +1,8831 @@
+{
+ "_STATE": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    42.0,
+    42.0,
+    "Pennsylvania"
+   ],
+   [
+    44.0,
+    44.0,
+    "Rhode Island"
+   ],
+   [
+    45.0,
+    45.0,
+    "South Carolina"
+   ],
+   [
+    46.0,
+    46.0,
+    "South Dakota"
+   ],
+   [
+    47.0,
+    47.0,
+    "Tennessee"
+   ],
+   [
+    48.0,
+    48.0,
+    "Texas"
+   ],
+   [
+    49.0,
+    49.0,
+    "Utah"
+   ],
+   [
+    50.0,
+    50.0,
+    "Vermont"
+   ],
+   [
+    51.0,
+    51.0,
+    "Virginia"
+   ],
+   [
+    53.0,
+    53.0,
+    "Washington"
+   ],
+   [
+    54.0,
+    54.0,
+    "West Virginia"
+   ],
+   [
+    55.0,
+    55.0,
+    "Wisconsin"
+   ],
+   [
+    56.0,
+    56.0,
+    "Wyoming"
+   ],
+   [
+    66.0,
+    66.0,
+    "Guam"
+   ],
+   [
+    72.0,
+    72.0,
+    "Puerto Rico"
+   ]
+  ]
+ },
+ "FMONTH": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "January"
+   ],
+   [
+    2.0,
+    2.0,
+    "February"
+   ],
+   [
+    3.0,
+    3.0,
+    "March"
+   ],
+   [
+    4.0,
+    4.0,
+    "April"
+   ],
+   [
+    5.0,
+    5.0,
+    "May"
+   ],
+   [
+    6.0,
+    6.0,
+    "June"
+   ],
+   [
+    7.0,
+    7.0,
+    "July"
+   ],
+   [
+    8.0,
+    8.0,
+    "August"
+   ],
+   [
+    9.0,
+    9.0,
+    "September"
+   ],
+   [
+    10.0,
+    10.0,
+    "October"
+   ],
+   [
+    11.0,
+    11.0,
+    "November"
+   ],
+   [
+    12.0,
+    12.0,
+    "December"
+   ]
+  ]
+ },
+ "IDATE": {
+  "implied_decimals": 0,
+  "values": []
+ },
+ "IMONTH": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "January"
+   ],
+   [
+    2.0,
+    2.0,
+    "February"
+   ],
+   [
+    3.0,
+    3.0,
+    "March"
+   ],
+   [
+    4.0,
+    4.0,
+    "April"
+   ],
+   [
+    5.0,
+    5.0,
+    "May"
+   ],
+   [
+    6.0,
+    6.0,
+    "June"
+   ],
+   [
+    7.0,
+    7.0,
+    "July"
+   ],
+   [
+    8.0,
+    8.0,
+    "August"
+   ],
+   [
+    9.0,
+    9.0,
+    "September"
+   ],
+   [
+    10.0,
+    10.0,
+    "October"
+   ],
+   [
+    11.0,
+    11.0,
+    "November"
+   ],
+   [
+    12.0,
+    12.0,
+    "December"
+   ]
+  ]
+ },
+ "IDAY": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Interview Day"
+   ],
+   [
+    2.0,
+    2.0,
+    "16,197       3.67            3.06"
+   ],
+   [
+    3.0,
+    3.0,
+    "16,649       3.77            3.14"
+   ],
+   [
+    4.0,
+    4.0,
+    "16,229       3.68            3.24"
+   ],
+   [
+    5.0,
+    5.0,
+    "15,105       3.42            3.04"
+   ],
+   [
+    6.0,
+    6.0,
+    "16,408       3.72            3.40"
+   ],
+   [
+    7.0,
+    7.0,
+    "17,175       3.89            3.53"
+   ],
+   [
+    8.0,
+    8.0,
+    "17,398       3.94            3.67"
+   ],
+   [
+    9.0,
+    9.0,
+    "18,669       4.23            4.16"
+   ],
+   [
+    10.0,
+    10.0,
+    "16,810       3.81            3.72"
+   ],
+   [
+    11.0,
+    11.0,
+    "17,037       3.86            3.81"
+   ],
+   [
+    12.0,
+    12.0,
+    "17,089       3.87            3.81"
+   ],
+   [
+    13.0,
+    13.0,
+    "16,536       3.75            3.96"
+   ],
+   [
+    14.0,
+    14.0,
+    "17,052       3.86            3.94"
+   ],
+   [
+    15.0,
+    15.0,
+    "15,931       3.61            3.81"
+   ],
+   [
+    16.0,
+    16.0,
+    "15,917       3.61            3.69"
+   ],
+   [
+    17.0,
+    17.0,
+    "14,925       3.38            3.46"
+   ],
+   [
+    18.0,
+    18.0,
+    "14,759       3.34            3.40"
+   ],
+   [
+    19.0,
+    19.0,
+    "14,233       3.22            3.37"
+   ],
+   [
+    20.0,
+    20.0,
+    "14,424       3.27            3.60"
+   ],
+   [
+    21.0,
+    21.0,
+    "14,642       3.32            3.48"
+   ],
+   [
+    22.0,
+    22.0,
+    "14,078       3.19            3.39"
+   ],
+   [
+    23.0,
+    23.0,
+    "13,445       3.05            3.22"
+   ],
+   [
+    24.0,
+    24.0,
+    "11,459       2.60            2.70"
+   ],
+   [
+    25.0,
+    25.0,
+    "10,330       2.34            2.49"
+   ],
+   [
+    26.0,
+    26.0,
+    "10,388       2.35            2.63"
+   ],
+   [
+    27.0,
+    27.0,
+    "10,677       2.42            2.68"
+   ],
+   [
+    28.0,
+    28.0,
+    "11,019       2.50            2.68"
+   ],
+   [
+    29.0,
+    29.0,
+    "9,806        2.22            2.48"
+   ],
+   [
+    30.0,
+    30.0,
+    "9,491        2.15            2.44"
+   ],
+   [
+    31.0,
+    31.0,
+    "4,992        1.13            1.34"
+   ]
+  ]
+ },
+ "IYEAR": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    2015.0,
+    2015.0,
+    "Interview Year"
+   ],
+   [
+    2016.0,
+    2016.0,
+    "10,915       2.47            3.81"
+   ]
+  ]
+ },
+ "DISPCODE": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1100.0,
+    1100.0,
+    "Completed Interview"
+   ],
+   [
+    1200.0,
+    1200.0,
+    "Partial Complete Interview"
+   ]
+  ]
+ },
+ "SEQNO": {
+  "implied_decimals": 0,
+  "values": []
+ },
+ "_PSU": {
+  "implied_decimals": 0,
+  "values": []
+ },
+ "CTELENUM": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ]
+  ]
+ },
+ "PVTRESD1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ]
+  ]
+ },
+ "COLGHOUS": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ]
+  ]
+ },
+ "STATERES": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ]
+  ]
+ },
+ "CELLFON3": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Not a cellular phone"
+   ],
+   [
+    2.0,
+    2.0,
+    "Yes"
+   ]
+  ]
+ },
+ "LADULT": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes, Male Respondent"
+   ],
+   [
+    2.0,
+    2.0,
+    "Yes, Female Respondent"
+   ]
+  ]
+ },
+ "NUMADULT": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Number of adults in the household"
+   ],
+   [
+    2.0,
+    2.0,
+    "127,367       50.02        51.79"
+   ],
+   [
+    3.0,
+    3.0,
+    "22,040       8.66         16.85"
+   ],
+   [
+    4.0,
+    4.0,
+    "7,013        2.75           8.01"
+   ],
+   [
+    5.0,
+    5.0,
+    "1,564        0.61           2.16"
+   ],
+   [
+    6.0,
+    99.0,
+    "6 or more"
+   ]
+  ]
+ },
+ "NUMMEN": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    0.0,
+    0.0,
+    "Number of adult men in the household"
+   ],
+   [
+    1.0,
+    1.0,
+    "159,499       62.67        64.24"
+   ],
+   [
+    2.0,
+    2.0,
+    "17,262       6.78         14.43"
+   ],
+   [
+    3.0,
+    3.0,
+    "2,651        1.04           3.33"
+   ],
+   [
+    4.0,
+    4.0,
+    "360         0.14           0.57"
+   ],
+   [
+    5.0,
+    5.0,
+    "42         0.02           0.06"
+   ],
+   [
+    6.0,
+    99.0,
+    "6 or more"
+   ]
+  ]
+ },
+ "NUMWOMEN": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    0.0,
+    0.0,
+    "Number of adult women in the household"
+   ],
+   [
+    1.0,
+    1.0,
+    "198,302       77.92        71.38"
+   ],
+   [
+    2.0,
+    2.0,
+    "21,454       8.43         16.34"
+   ],
+   [
+    3.0,
+    3.0,
+    "2,987        1.17           3.48"
+   ],
+   [
+    4.0,
+    4.0,
+    "401         0.16           0.50"
+   ],
+   [
+    5.0,
+    5.0,
+    "55         0.02           0.06"
+   ],
+   [
+    6.0,
+    99.0,
+    "6 or more"
+   ]
+  ]
+ },
+ "CTELNUM1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ]
+  ]
+ },
+ "CELLFON2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ]
+  ]
+ },
+ "CADULT": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes, Male Respondent"
+   ],
+   [
+    2.0,
+    2.0,
+    "Yes, Female Respondent"
+   ]
+  ]
+ },
+ "PVTRESD2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ]
+  ]
+ },
+ "CCLGHOUS": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ]
+  ]
+ },
+ "CSTATE": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ]
+  ]
+ },
+ "LANDLINE": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "HHADULT": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    76.0,
+    "Number of adults"
+   ],
+   [
+    77.0,
+    77.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "GENHLTH": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Excellent"
+   ],
+   [
+    2.0,
+    2.0,
+    "Very good"
+   ],
+   [
+    3.0,
+    3.0,
+    "Good"
+   ],
+   [
+    4.0,
+    4.0,
+    "Fair"
+   ],
+   [
+    5.0,
+    5.0,
+    "Poor"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "PHYSHLTH": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    30.0,
+    "Number of days"
+   ],
+   [
+    88.0,
+    88.0,
+    "None"
+   ],
+   [
+    77.0,
+    77.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "MENTHLTH": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    30.0,
+    "Number of days"
+   ],
+   [
+    88.0,
+    88.0,
+    "None"
+   ],
+   [
+    77.0,
+    77.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "POORHLTH": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    30.0,
+    "Number of days"
+   ],
+   [
+    88.0,
+    88.0,
+    "None"
+   ],
+   [
+    77.0,
+    77.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "HLTHPLN1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "PERSDOC2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes, only one"
+   ],
+   [
+    2.0,
+    2.0,
+    "More than one"
+   ],
+   [
+    3.0,
+    3.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "MEDCOST": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "CHECKUP1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Within past year (anytime less than 12 months ago)"
+   ],
+   [
+    2.0,
+    2.0,
+    "Within past 2 years (1 year but less than 2 years ago)"
+   ],
+   [
+    3.0,
+    3.0,
+    "Within past 5 years (2 years but less than 5 years ago)"
+   ],
+   [
+    4.0,
+    4.0,
+    "5 or more years ago"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    8.0,
+    8.0,
+    "Never"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "BPHIGH4": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "Yes, but female told only during pregnancy"
+   ],
+   [
+    3.0,
+    3.0,
+    "No"
+   ],
+   [
+    4.0,
+    4.0,
+    "Told borderline high or pre-hypertensive"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don´t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "BPMEDS": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "BLOODCHO": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "CHOLCHK": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Within the past year (anytime less than 12 months ago)"
+   ],
+   [
+    2.0,
+    2.0,
+    "Within the past 2 years (1 year but less than 2 years ago)"
+   ],
+   [
+    3.0,
+    3.0,
+    "Within the past 5 years (2 years but less than 5 years ago)"
+   ],
+   [
+    4.0,
+    4.0,
+    "5 or more years ago"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "TOLDHI2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "CVDINFR4": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "CVDCRHD4": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "CVDSTRK3": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "ASTHMA3": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "ASTHNOW": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "CHCSCNCR": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know / Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "CHCOCNCR": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know / Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "CHCCOPD1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know / Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "HAVARTH3": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "ADDEPEV2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "CHCKIDNY": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know / Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "DIABETE3": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "Yes, but female told only during pregnancy"
+   ],
+   [
+    3.0,
+    3.0,
+    "No"
+   ],
+   [
+    4.0,
+    4.0,
+    "No, pre-diabetes or borderline diabetes"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "DIABAGE2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    97.0,
+    "Age in years [97 = 97 and older]"
+   ],
+   [
+    98.0,
+    98.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "SEX": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Male"
+   ],
+   [
+    2.0,
+    2.0,
+    "Female"
+   ]
+  ]
+ },
+ "MARITAL": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Married"
+   ],
+   [
+    2.0,
+    2.0,
+    "Divorced"
+   ],
+   [
+    3.0,
+    3.0,
+    "Widowed"
+   ],
+   [
+    4.0,
+    4.0,
+    "Separated"
+   ],
+   [
+    5.0,
+    5.0,
+    "Never married"
+   ],
+   [
+    6.0,
+    6.0,
+    "A member of an unmarried couple"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "EDUCA": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Never attended school or only kindergarten"
+   ],
+   [
+    2.0,
+    2.0,
+    "Grades 1 through 8 (Elementary)"
+   ],
+   [
+    3.0,
+    3.0,
+    "Grades 9 through 11 (Some high school)"
+   ],
+   [
+    4.0,
+    4.0,
+    "Grade 12 or GED (High school graduate)"
+   ],
+   [
+    5.0,
+    5.0,
+    "College 1 year to 3 years (Some college or technical school)"
+   ],
+   [
+    6.0,
+    6.0,
+    "College 4 years or more (College graduate)"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "RENTHOM1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Own"
+   ],
+   [
+    2.0,
+    2.0,
+    "Rent"
+   ],
+   [
+    3.0,
+    3.0,
+    "Other arrangement"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "NUMHHOL2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "NUMPHON2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Residential telephone number"
+   ],
+   [
+    2.0,
+    2.0,
+    "Residential telephone numbers"
+   ],
+   [
+    3.0,
+    3.0,
+    "Residential telephone numbers"
+   ],
+   [
+    4.0,
+    4.0,
+    "Residential telephone numbers"
+   ],
+   [
+    5.0,
+    5.0,
+    "Residential telephone numbers"
+   ],
+   [
+    6.0,
+    6.0,
+    "Residential telephone numbers"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "CPDEMO1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "VETERAN3": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "EMPLOY1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Employed for wages"
+   ],
+   [
+    2.0,
+    2.0,
+    "Self-employed"
+   ],
+   [
+    3.0,
+    3.0,
+    "Out of work for 1 year or more"
+   ],
+   [
+    4.0,
+    4.0,
+    "Out of work for less than 1 year"
+   ],
+   [
+    5.0,
+    5.0,
+    "A homemaker"
+   ],
+   [
+    6.0,
+    6.0,
+    "A student"
+   ],
+   [
+    7.0,
+    7.0,
+    "Retired"
+   ],
+   [
+    8.0,
+    8.0,
+    "Unable to work"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "CHILDREN": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    87.0,
+    "Number of children"
+   ],
+   [
+    88.0,
+    88.0,
+    "None"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "INCOME2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Less than $10,000"
+   ],
+   [
+    2.0,
+    2.0,
+    "Less than $15,000 ($10,000 to less than $15,000)"
+   ],
+   [
+    3.0,
+    3.0,
+    "Less than $20,000 ($15,000 to less than $20,000)"
+   ],
+   [
+    4.0,
+    4.0,
+    "Less than $25,000 ($20,000 to less than $25,000)"
+   ],
+   [
+    5.0,
+    5.0,
+    "Less than $35,000 ($25,000 to less than $35,000)"
+   ],
+   [
+    6.0,
+    6.0,
+    "Less than $50,000 ($35,000 to less than $50,000)"
+   ],
+   [
+    7.0,
+    7.0,
+    "Less than $75,000 ($50,000 to less than $75,000)"
+   ],
+   [
+    8.0,
+    8.0,
+    "$75,000 or more"
+   ],
+   [
+    77.0,
+    77.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "INTERNET": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "WEIGHT2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    50.0,
+    999.0,
+    "Weight (pounds)"
+   ],
+   [
+    7777.0,
+    7777.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    9000.0,
+    9998.0,
+    "Weight (kilograms)"
+   ],
+   [
+    9999.0,
+    9999.0,
+    "Refused"
+   ]
+  ]
+ },
+ "HEIGHT3": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    200.0,
+    711.0,
+    "Height (ft/inches)"
+   ],
+   [
+    7777.0,
+    7777.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    9000.0,
+    9998.0,
+    "Height (meters/centimeters)"
+   ],
+   [
+    9999.0,
+    9999.0,
+    "Refused"
+   ]
+  ]
+ },
+ "PREGNANT": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "QLACTLM2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "USEEQUIP": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "BLIND": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "DECIDE": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "DIFFWALK": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "DIFFDRES": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "DIFFALON": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "SMOKE100": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "SMOKDAY2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Every day"
+   ],
+   [
+    2.0,
+    2.0,
+    "Some days"
+   ],
+   [
+    3.0,
+    3.0,
+    "Not at all"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don´t Know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "STOPSMK2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "LASTSMK2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Within the past month (less than 1 month ago)"
+   ],
+   [
+    2.0,
+    2.0,
+    "Within the past 3 months (1 month but less than 3 months ago)"
+   ],
+   [
+    3.0,
+    3.0,
+    "Within the past 6 months (3 months but less than 6 months ago)"
+   ],
+   [
+    4.0,
+    4.0,
+    "Within the past year (6 months but less than 1 year ago)"
+   ],
+   [
+    5.0,
+    5.0,
+    "Within the past 5 years (1 year but less than 5 years ago)"
+   ],
+   [
+    6.0,
+    6.0,
+    "Within the past 10 years (5 years but less than 10 years ago)"
+   ],
+   [
+    7.0,
+    7.0,
+    "10 years or more"
+   ],
+   [
+    8.0,
+    8.0,
+    "Never smoked regularly"
+   ],
+   [
+    77.0,
+    77.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "USENOW3": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Every day"
+   ],
+   [
+    2.0,
+    2.0,
+    "Some days"
+   ],
+   [
+    3.0,
+    3.0,
+    "Not at all"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "ALCDAY5": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    101.0,
+    199.0,
+    "Days per week"
+   ],
+   [
+    201.0,
+    299.0,
+    "Days in past 30 days"
+   ],
+   [
+    777.0,
+    777.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    888.0,
+    888.0,
+    "No drinks in past 30 days"
+   ],
+   [
+    999.0,
+    999.0,
+    "Refused"
+   ]
+  ]
+ },
+ "AVEDRNK2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    76.0,
+    "Number of drinks"
+   ],
+   [
+    77.0,
+    77.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "DRNK3GE5": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    76.0,
+    "Number of Times"
+   ],
+   [
+    88.0,
+    88.0,
+    "None"
+   ],
+   [
+    77.0,
+    77.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "MAXDRNKS": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    76.0,
+    "Number of drinks"
+   ],
+   [
+    77.0,
+    77.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "FRUITJU1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    101.0,
+    199.0,
+    "Times per day"
+   ],
+   [
+    201.0,
+    299.0,
+    "Times per week"
+   ],
+   [
+    300.0,
+    300.0,
+    "Less than one time per month"
+   ],
+   [
+    301.0,
+    399.0,
+    "Times per month"
+   ],
+   [
+    555.0,
+    555.0,
+    "Never"
+   ],
+   [
+    777.0,
+    777.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    999.0,
+    999.0,
+    "Refused"
+   ]
+  ]
+ },
+ "FRUIT1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    101.0,
+    199.0,
+    "Times per day"
+   ],
+   [
+    201.0,
+    299.0,
+    "Times per week"
+   ],
+   [
+    300.0,
+    300.0,
+    "Less than one time per month"
+   ],
+   [
+    301.0,
+    399.0,
+    "Times per month"
+   ],
+   [
+    555.0,
+    555.0,
+    "Never"
+   ],
+   [
+    777.0,
+    777.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    999.0,
+    999.0,
+    "Refused"
+   ]
+  ]
+ },
+ "FVBEANS": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    101.0,
+    199.0,
+    "Times per day"
+   ],
+   [
+    201.0,
+    299.0,
+    "Times per week"
+   ],
+   [
+    300.0,
+    300.0,
+    "Less than one time per month"
+   ],
+   [
+    301.0,
+    399.0,
+    "Times per month"
+   ],
+   [
+    555.0,
+    555.0,
+    "Never"
+   ],
+   [
+    777.0,
+    777.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    999.0,
+    999.0,
+    "Refused"
+   ]
+  ]
+ },
+ "FVGREEN": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    101.0,
+    199.0,
+    "Times per day"
+   ],
+   [
+    201.0,
+    299.0,
+    "Times per week"
+   ],
+   [
+    300.0,
+    300.0,
+    "Less than one time per month"
+   ],
+   [
+    301.0,
+    399.0,
+    "Times per month"
+   ],
+   [
+    555.0,
+    555.0,
+    "Never"
+   ],
+   [
+    777.0,
+    777.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    999.0,
+    999.0,
+    "Refused"
+   ]
+  ]
+ },
+ "FVORANG": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    101.0,
+    199.0,
+    "Times per day"
+   ],
+   [
+    201.0,
+    299.0,
+    "Times per week"
+   ],
+   [
+    300.0,
+    300.0,
+    "Less than one time per month"
+   ],
+   [
+    301.0,
+    399.0,
+    "Times per month"
+   ],
+   [
+    555.0,
+    555.0,
+    "Never"
+   ],
+   [
+    777.0,
+    777.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    999.0,
+    999.0,
+    "Refused"
+   ]
+  ]
+ },
+ "VEGETAB1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    101.0,
+    199.0,
+    "Times per day"
+   ],
+   [
+    201.0,
+    299.0,
+    "Times per week"
+   ],
+   [
+    300.0,
+    300.0,
+    "Less than one time per month"
+   ],
+   [
+    301.0,
+    399.0,
+    "Times per month"
+   ],
+   [
+    555.0,
+    555.0,
+    "Never"
+   ],
+   [
+    777.0,
+    777.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    999.0,
+    999.0,
+    "Refused"
+   ]
+  ]
+ },
+ "EXERANY2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "EXRACT11": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    77.0,
+    77.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "EXEROFT1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    101.0,
+    199.0,
+    "Times per week"
+   ],
+   [
+    201.0,
+    299.0,
+    "Times per month"
+   ],
+   [
+    777.0,
+    777.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    999.0,
+    999.0,
+    "Refused"
+   ]
+  ]
+ },
+ "EXERHMM1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    759.0,
+    "Hours and Minutes"
+   ],
+   [
+    777.0,
+    777.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    800.0,
+    959.0,
+    "Hours and Minutes"
+   ],
+   [
+    999.0,
+    999.0,
+    "Refused"
+   ]
+  ]
+ },
+ "EXRACT21": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    98.0,
+    98.0,
+    "Other______"
+   ],
+   [
+    77.0,
+    77.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "EXEROFT2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    101.0,
+    199.0,
+    "Times per week"
+   ],
+   [
+    201.0,
+    299.0,
+    "Times per month"
+   ],
+   [
+    777.0,
+    777.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    999.0,
+    999.0,
+    "Refused"
+   ]
+  ]
+ },
+ "EXERHMM2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    759.0,
+    "Hours and Minutes"
+   ],
+   [
+    777.0,
+    777.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    800.0,
+    959.0,
+    "Hours and Minutes"
+   ],
+   [
+    999.0,
+    999.0,
+    "Refused"
+   ]
+  ]
+ },
+ "STRENGTH": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    101.0,
+    199.0,
+    "Times per week"
+   ],
+   [
+    201.0,
+    299.0,
+    "Times per month"
+   ],
+   [
+    777.0,
+    777.0,
+    "Don’t know / Not sure"
+   ],
+   [
+    888.0,
+    888.0,
+    "Never"
+   ],
+   [
+    999.0,
+    999.0,
+    "Refused"
+   ]
+  ]
+ },
+ "LMTJOIN3": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "ARTHDIS2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "ARTHSOCL": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "A lot"
+   ],
+   [
+    2.0,
+    2.0,
+    "A little"
+   ],
+   [
+    3.0,
+    3.0,
+    "Not at all"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "JOINPAIN": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    0.0,
+    10.0,
+    "Enter number [0-10]"
+   ],
+   [
+    77.0,
+    77.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "SEATBELT": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Always"
+   ],
+   [
+    2.0,
+    2.0,
+    "Nearly always"
+   ],
+   [
+    3.0,
+    3.0,
+    "Sometimes"
+   ],
+   [
+    4.0,
+    4.0,
+    "Seldom"
+   ],
+   [
+    5.0,
+    5.0,
+    "Never"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    8.0,
+    8.0,
+    "Never drive or ride in a car"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "FLUSHOT6": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "FLSHTMY2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    777777.0,
+    777777.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    999999.0,
+    999999.0,
+    "Refused"
+   ]
+  ]
+ },
+ "IMFVPLAC": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "A doctor´s office or health maintenance organization (HMO)"
+   ],
+   [
+    2.0,
+    2.0,
+    "A health department"
+   ],
+   [
+    3.0,
+    3.0,
+    "Another type of clinic or health center (Example: a community health"
+   ],
+   [
+    4.0,
+    4.0,
+    "A senior, recreation, or community center"
+   ],
+   [
+    5.0,
+    5.0,
+    "A store (Examples: supermarket, drug store)"
+   ],
+   [
+    6.0,
+    6.0,
+    "A hospital (Example: inpatient)"
+   ],
+   [
+    7.0,
+    7.0,
+    "An emergency room"
+   ],
+   [
+    8.0,
+    8.0,
+    "Workplace"
+   ],
+   [
+    9.0,
+    9.0,
+    "Some other kind of place"
+   ],
+   [
+    10.0,
+    10.0,
+    "Received vaccination in Canada/Mexico (Volunteered - Do not read)"
+   ],
+   [
+    11.0,
+    11.0,
+    "A school"
+   ],
+   [
+    77.0,
+    77.0,
+    "Don’t know / Not sure"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "PNEUVAC3": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "HIVTST6": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "HIVTSTD3": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    777777.0,
+    777777.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    999999.0,
+    999999.0,
+    "Refused"
+   ]
+  ]
+ },
+ "WHRTST10": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Private doctor or HMO"
+   ],
+   [
+    2.0,
+    2.0,
+    "Counseling and testing site"
+   ],
+   [
+    3.0,
+    3.0,
+    "Hospital inpatient"
+   ],
+   [
+    4.0,
+    4.0,
+    "Clinic"
+   ],
+   [
+    5.0,
+    5.0,
+    "Jail or prison (or other correctional facility)"
+   ],
+   [
+    6.0,
+    6.0,
+    "Drug treatment facility"
+   ],
+   [
+    7.0,
+    7.0,
+    "At home"
+   ],
+   [
+    8.0,
+    8.0,
+    "Somewhere else"
+   ],
+   [
+    9.0,
+    9.0,
+    "Emergency room"
+   ],
+   [
+    77.0,
+    77.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "PDIABTST": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "PREDIAB1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "Yes, during pregnancy"
+   ],
+   [
+    3.0,
+    3.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "INSULIN": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "BLDSUGAR": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    101.0,
+    199.0,
+    "Times per day"
+   ],
+   [
+    201.0,
+    299.0,
+    "Times per week"
+   ],
+   [
+    301.0,
+    399.0,
+    "Times per month"
+   ],
+   [
+    401.0,
+    499.0,
+    "Times per year"
+   ],
+   [
+    777.0,
+    777.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    888.0,
+    888.0,
+    "Never"
+   ],
+   [
+    999.0,
+    999.0,
+    "Refused"
+   ]
+  ]
+ },
+ "FEETCHK2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    101.0,
+    199.0,
+    "Times per day"
+   ],
+   [
+    201.0,
+    299.0,
+    "Times per week"
+   ],
+   [
+    301.0,
+    399.0,
+    "Times per month"
+   ],
+   [
+    401.0,
+    499.0,
+    "Times per year"
+   ],
+   [
+    555.0,
+    555.0,
+    "No feet"
+   ],
+   [
+    777.0,
+    777.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    888.0,
+    888.0,
+    "Never"
+   ],
+   [
+    999.0,
+    999.0,
+    "Refused"
+   ]
+  ]
+ },
+ "DOCTDIAB": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    76.0,
+    "Number of times [76=76 or more]"
+   ],
+   [
+    88.0,
+    88.0,
+    "None"
+   ],
+   [
+    77.0,
+    77.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "CHKHEMO3": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    76.0,
+    "Number of times [76=76 or more]"
+   ],
+   [
+    88.0,
+    88.0,
+    "None"
+   ],
+   [
+    98.0,
+    98.0,
+    "Never heard of ‘‘A one C’’ test"
+   ],
+   [
+    77.0,
+    77.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "FEETCHK": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    76.0,
+    "Number of times [76=76 or more]"
+   ],
+   [
+    88.0,
+    88.0,
+    "None"
+   ],
+   [
+    77.0,
+    77.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "EYEEXAM": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Within the past month (anytime less than 1 month ago)"
+   ],
+   [
+    2.0,
+    2.0,
+    "Within the past year (1 month but less than 12 months ago)"
+   ],
+   [
+    3.0,
+    3.0,
+    "Within the past 2 years (1 year but less than 2 years ago)"
+   ],
+   [
+    4.0,
+    4.0,
+    "2 or more years ago"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    8.0,
+    8.0,
+    "Never"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "DIABEYE": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "DIABEDU": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "PAINACT2": {
+  "implied_decimals": 0,
+  "values": []
+ },
+ "QLMENTL2": {
+  "implied_decimals": 0,
+  "values": []
+ },
+ "QLSTRES2": {
+  "implied_decimals": 0,
+  "values": []
+ },
+ "QLHLTH2": {
+  "implied_decimals": 0,
+  "values": []
+ },
+ "CAREGIV1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    8.0,
+    8.0,
+    "Caregiving recipient died in past 30 days"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "CRGVREL1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Mother"
+   ],
+   [
+    2.0,
+    2.0,
+    "Father"
+   ],
+   [
+    3.0,
+    3.0,
+    "Mother-in-law"
+   ],
+   [
+    4.0,
+    4.0,
+    "Father-in-law"
+   ],
+   [
+    5.0,
+    5.0,
+    "Child"
+   ],
+   [
+    6.0,
+    6.0,
+    "Husband"
+   ],
+   [
+    7.0,
+    7.0,
+    "Wife"
+   ],
+   [
+    8.0,
+    8.0,
+    "Same-sex partner"
+   ],
+   [
+    9.0,
+    9.0,
+    "Brother or brother-in-law"
+   ],
+   [
+    10.0,
+    10.0,
+    "Sister or sister-in-law"
+   ],
+   [
+    11.0,
+    11.0,
+    "Grandmother"
+   ],
+   [
+    12.0,
+    12.0,
+    "Grandfather"
+   ],
+   [
+    13.0,
+    13.0,
+    "Grandchild"
+   ],
+   [
+    14.0,
+    14.0,
+    "Other relative"
+   ],
+   [
+    15.0,
+    15.0,
+    "Non-relative/Family friend"
+   ],
+   [
+    77.0,
+    77.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "CRGVLNG1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Less than 30 days"
+   ],
+   [
+    2.0,
+    2.0,
+    "1 month to less than 6 months"
+   ],
+   [
+    3.0,
+    3.0,
+    "6 months to less than 2 years"
+   ],
+   [
+    4.0,
+    4.0,
+    "2 years to less than 5 years"
+   ],
+   [
+    5.0,
+    5.0,
+    "More than 5 years"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "CRGVHRS1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Up to 8 hours per week"
+   ],
+   [
+    2.0,
+    2.0,
+    "9 to 19 hours per week"
+   ],
+   [
+    3.0,
+    3.0,
+    "20 to 39 hours per week"
+   ],
+   [
+    4.0,
+    4.0,
+    "40 hours or more"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "CRGVPRB1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Arthritis/Rheumatism"
+   ],
+   [
+    2.0,
+    2.0,
+    "Asthma"
+   ],
+   [
+    3.0,
+    3.0,
+    "Cancer"
+   ],
+   [
+    4.0,
+    4.0,
+    "Chronic respiratory conditions such as Emphysema or COPD"
+   ],
+   [
+    5.0,
+    5.0,
+    "Dementia and other Cognitive Impairment Disorders"
+   ],
+   [
+    6.0,
+    6.0,
+    "Developmental Disabilities such as Autism, Down's Syndrome, and"
+   ],
+   [
+    7.0,
+    7.0,
+    "Diabetes"
+   ],
+   [
+    8.0,
+    8.0,
+    "Heart Disease, Hypertension"
+   ],
+   [
+    9.0,
+    9.0,
+    "Human Immunodeficiency Virus Infection (HIV)"
+   ],
+   [
+    10.0,
+    10.0,
+    "Mental Illnesses, such as Anxiety, Depression, or Schizophrenia"
+   ],
+   [
+    11.0,
+    11.0,
+    "Other organ failure or diseases such as kidney or liver problems"
+   ],
+   [
+    12.0,
+    12.0,
+    "Substance Abuse or Addiction Disorders"
+   ],
+   [
+    13.0,
+    13.0,
+    "Other"
+   ],
+   [
+    77.0,
+    77.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "CRGVPERS": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "CRGVHOUS": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "CRGVMST2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Classes about giving care, such as giving medications"
+   ],
+   [
+    2.0,
+    2.0,
+    "Help in getting access to services"
+   ],
+   [
+    3.0,
+    3.0,
+    "Support groups"
+   ],
+   [
+    4.0,
+    4.0,
+    "Individual counseling to help cope with giving care"
+   ],
+   [
+    5.0,
+    5.0,
+    "Respite care"
+   ],
+   [
+    6.0,
+    6.0,
+    "You don’t need any of these support services"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "CRGVEXPT": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "VIDFCLT2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "No difficulty"
+   ],
+   [
+    2.0,
+    2.0,
+    "A little difficulty"
+   ],
+   [
+    3.0,
+    3.0,
+    "Moderate difficulty"
+   ],
+   [
+    4.0,
+    4.0,
+    "Extreme difficulty"
+   ],
+   [
+    5.0,
+    5.0,
+    "Unable to do because of eyesight"
+   ],
+   [
+    6.0,
+    6.0,
+    "Unable to do for other reasons"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    8.0,
+    8.0,
+    "Not applicable (Blind)"
+   ]
+  ]
+ },
+ "VIREDIF3": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "No difficulty"
+   ],
+   [
+    2.0,
+    2.0,
+    "A little difficulty"
+   ],
+   [
+    3.0,
+    3.0,
+    "Moderate difficulty"
+   ],
+   [
+    4.0,
+    4.0,
+    "Extreme difficulty"
+   ],
+   [
+    5.0,
+    5.0,
+    "Unable to do because of eyesight"
+   ],
+   [
+    6.0,
+    6.0,
+    "Unable to do for other reasons"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ]
+  ]
+ },
+ "VIPRFVS2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Within the past month (anytime less than 1 month ago)"
+   ],
+   [
+    2.0,
+    2.0,
+    "Within the past year (1month but less than 12 months ago)"
+   ],
+   [
+    3.0,
+    3.0,
+    "Within the past 2 years (1years but less than 2 years ago)"
+   ],
+   [
+    4.0,
+    4.0,
+    "2 or more years ago"
+   ],
+   [
+    5.0,
+    5.0,
+    "Never"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "VINOCRE2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Cost/insurance"
+   ],
+   [
+    2.0,
+    2.0,
+    "Do not have/know an eye doctor"
+   ],
+   [
+    3.0,
+    3.0,
+    "Cannot get to the office/clinic (too far away,no transportation)"
+   ],
+   [
+    4.0,
+    4.0,
+    "Could not get an appointment"
+   ],
+   [
+    5.0,
+    5.0,
+    "No reason to go (no problem)"
+   ],
+   [
+    6.0,
+    6.0,
+    "Have not thought of it"
+   ],
+   [
+    7.0,
+    7.0,
+    "Other"
+   ],
+   [
+    8.0,
+    8.0,
+    "Not Applicable (Blind)"
+   ],
+   [
+    77.0,
+    77.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "VIEYEXM2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Within the past month (anytime less than 1 month ago)"
+   ],
+   [
+    2.0,
+    2.0,
+    "Within the past year (1 month but less than 12 months ago)"
+   ],
+   [
+    3.0,
+    3.0,
+    "Within the past 2 years (1 year but less than 2 years)"
+   ],
+   [
+    4.0,
+    4.0,
+    "2 or more years ago"
+   ],
+   [
+    5.0,
+    5.0,
+    "Never"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    8.0,
+    8.0,
+    "Not applicable (Blind)"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "VIINSUR2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    8.0,
+    8.0,
+    "Not applicable (Blind)"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "VICTRCT4": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No, I had them removed"
+   ],
+   [
+    3.0,
+    3.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ]
+  ]
+ },
+ "VIGLUMA2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ]
+  ]
+ },
+ "VIMACDG2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ]
+  ]
+ },
+ "CIMEMLOS": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "CDHOUSE": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Always"
+   ],
+   [
+    2.0,
+    2.0,
+    "Usually"
+   ],
+   [
+    3.0,
+    3.0,
+    "Sometimes"
+   ],
+   [
+    4.0,
+    4.0,
+    "Rarely"
+   ],
+   [
+    5.0,
+    5.0,
+    "Never"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "CDASSIST": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Always"
+   ],
+   [
+    2.0,
+    2.0,
+    "Usually"
+   ],
+   [
+    3.0,
+    3.0,
+    "Sometimes"
+   ],
+   [
+    4.0,
+    4.0,
+    "Rarely"
+   ],
+   [
+    5.0,
+    5.0,
+    "Never"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "CDHELP": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Always"
+   ],
+   [
+    2.0,
+    2.0,
+    "Usually"
+   ],
+   [
+    3.0,
+    3.0,
+    "Sometimes"
+   ],
+   [
+    4.0,
+    4.0,
+    "Rarely"
+   ],
+   [
+    5.0,
+    5.0,
+    "Never"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "CDSOCIAL": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Always"
+   ],
+   [
+    2.0,
+    2.0,
+    "Usually"
+   ],
+   [
+    3.0,
+    3.0,
+    "Sometimes"
+   ],
+   [
+    4.0,
+    4.0,
+    "Rarely"
+   ],
+   [
+    5.0,
+    5.0,
+    "Never"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "CDDISCUS": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "WTCHSALT": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "LONGWTCH": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    101.0,
+    199.0,
+    "Day(s)"
+   ],
+   [
+    201.0,
+    299.0,
+    "Week(s)"
+   ],
+   [
+    301.0,
+    399.0,
+    "Month(s)"
+   ],
+   [
+    401.0,
+    499.0,
+    "Year(s)"
+   ],
+   [
+    555.0,
+    555.0,
+    "All my life"
+   ],
+   [
+    777.0,
+    777.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    999.0,
+    999.0,
+    "Refused"
+   ]
+  ]
+ },
+ "DRADVISE": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "ASTHMAGE": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    11.0,
+    96.0,
+    "Age 11 or older [96 = 96 and older]"
+   ],
+   [
+    97.0,
+    97.0,
+    "Age 10 or younger"
+   ],
+   [
+    98.0,
+    98.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "ASATTACK": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ]
+  ]
+ },
+ "ASERVIST": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    87.0,
+    "Number of visits [87 = 87 or more]"
+   ],
+   [
+    88.0,
+    88.0,
+    "None"
+   ],
+   [
+    98.0,
+    98.0,
+    "Don’t know/Not sure"
+   ]
+  ]
+ },
+ "ASDRVIST": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    87.0,
+    "Number of visits [87 = 87 or more]"
+   ],
+   [
+    88.0,
+    88.0,
+    "None"
+   ],
+   [
+    98.0,
+    98.0,
+    "Don’t know/Not sure"
+   ]
+  ]
+ },
+ "ASRCHKUP": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    87.0,
+    "Number of visits [87 = 87 or more]"
+   ],
+   [
+    88.0,
+    88.0,
+    "None"
+   ],
+   [
+    98.0,
+    98.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "ASACTLIM": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    365.0,
+    "Number of days"
+   ],
+   [
+    777.0,
+    777.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    888.0,
+    888.0,
+    "None"
+   ],
+   [
+    999.0,
+    999.0,
+    "Refused"
+   ]
+  ]
+ },
+ "ASYMPTOM": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Less than once a week"
+   ],
+   [
+    2.0,
+    2.0,
+    "Once or twice a week"
+   ],
+   [
+    3.0,
+    3.0,
+    "More that 2 times a week, but not every day"
+   ],
+   [
+    4.0,
+    4.0,
+    "Every day, but not all the time"
+   ],
+   [
+    5.0,
+    5.0,
+    "Every day, all the time"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    8.0,
+    8.0,
+    "Not at any time"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "ASNOSLEP": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "One or two"
+   ],
+   [
+    2.0,
+    2.0,
+    "Three to four"
+   ],
+   [
+    3.0,
+    3.0,
+    "Five"
+   ],
+   [
+    4.0,
+    4.0,
+    "Six to ten"
+   ],
+   [
+    5.0,
+    5.0,
+    "More than ten"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    8.0,
+    8.0,
+    "None"
+   ]
+  ]
+ },
+ "ASTHMED3": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "1 to 14 days"
+   ],
+   [
+    2.0,
+    2.0,
+    "15 to 24 days"
+   ],
+   [
+    3.0,
+    3.0,
+    "25 to 30 days"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    8.0,
+    8.0,
+    "Never"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "ASINHALR": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "1 to 4 times (in the past 30 days)"
+   ],
+   [
+    2.0,
+    2.0,
+    "5 to 14 times (in the past 30 days)"
+   ],
+   [
+    3.0,
+    3.0,
+    "15 to 29 times (in the past 30 days)"
+   ],
+   [
+    4.0,
+    4.0,
+    "30 to 59 times (in the past 30 days)"
+   ],
+   [
+    5.0,
+    5.0,
+    "60 to 99 times (in the past 30 days)"
+   ],
+   [
+    6.0,
+    6.0,
+    "100 or more times (in the past 30 days)"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    8.0,
+    8.0,
+    "Never (include no attack in past 30 days)"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "HAREHAB1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "STREHAB1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "CVDASPRN": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "ASPUNSAF": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes, not stomach related"
+   ],
+   [
+    2.0,
+    2.0,
+    "Yes, stomach problems"
+   ],
+   [
+    3.0,
+    3.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "RLIVPAIN": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "RDUCHART": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "RDUCSTRK": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "ARTTODAY": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "I can do everything I would like to do"
+   ],
+   [
+    2.0,
+    2.0,
+    "I can do most things I would like to do"
+   ],
+   [
+    3.0,
+    3.0,
+    "I can do some things I would like to do"
+   ],
+   [
+    4.0,
+    4.0,
+    "I can hardly do anything I would like to do"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don´t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "ARTHWGT": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don´t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "ARTHEXER": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don´t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "ARTHEDU": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don´t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "TETANUS": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes, received Tdap"
+   ],
+   [
+    2.0,
+    2.0,
+    "Yes, received tetanus shot, but not Tdap"
+   ],
+   [
+    3.0,
+    3.0,
+    "Yes, received tetanus shot but not sure what type"
+   ],
+   [
+    4.0,
+    4.0,
+    "No, did not receive any tetanus since 2005"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "HPVADVC2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    3.0,
+    3.0,
+    "Doctor refused when asked"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "HPVADSHT": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    2.0,
+    "Number of shots"
+   ],
+   [
+    3.0,
+    3.0,
+    "All shots"
+   ],
+   [
+    77.0,
+    77.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "SHINGLE2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "HADMAM": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "HOWLONG": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Within the past year (anytime less than 12 months ago)"
+   ],
+   [
+    2.0,
+    2.0,
+    "Within the past 2 years (1 year but less than 2 years ago)"
+   ],
+   [
+    3.0,
+    3.0,
+    "Within the past 3 years (2 years but less than 3 years ago)"
+   ],
+   [
+    4.0,
+    4.0,
+    "Within the past 5 years (3 years but less than 5 years ago)"
+   ],
+   [
+    5.0,
+    5.0,
+    "5 or more years ago"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "HADPAP2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "LASTPAP2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Within the past year (anytime less than 12 months ago)"
+   ],
+   [
+    2.0,
+    2.0,
+    "Within the past 2 years (1 year but less than 2 years ago)"
+   ],
+   [
+    3.0,
+    3.0,
+    "Within the past 3 years (2 years but less than 3 years ago)"
+   ],
+   [
+    4.0,
+    4.0,
+    "Within the past 5 years (3 years but less than 5 years ago)"
+   ],
+   [
+    5.0,
+    5.0,
+    "5 or more years ago"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "HPVTEST": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "HPLSTTST": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Within the past year (anytime less than 12 months ago)"
+   ],
+   [
+    2.0,
+    2.0,
+    "Within the past 2 years (1 year but less than 2 years ago)"
+   ],
+   [
+    3.0,
+    3.0,
+    "Within the past 3 years (2 years but less than 3 years ago)"
+   ],
+   [
+    4.0,
+    4.0,
+    "Within the past 5 years (3 years but less than 5 years ago)"
+   ],
+   [
+    5.0,
+    5.0,
+    "5 or more years ago"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "HADHYST2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "PROFEXAM": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "LENGEXAM": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Within the past year (anytime less than 12 months ago)"
+   ],
+   [
+    2.0,
+    2.0,
+    "Within the past 2 years (1 year but less than 2 years ago)"
+   ],
+   [
+    3.0,
+    3.0,
+    "Within the past 3 years (2 years but less than 3 years ago)"
+   ],
+   [
+    4.0,
+    4.0,
+    "Within the past 5 years (3 years but less than 5 years ago)"
+   ],
+   [
+    5.0,
+    5.0,
+    "5 or more years ago"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "BLDSTOOL": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "LSTBLDS3": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Within the past year (anytime less than 12 months ago)"
+   ],
+   [
+    2.0,
+    2.0,
+    "Within the past 2 years (1 year but less than 2 years ago)"
+   ],
+   [
+    3.0,
+    3.0,
+    "Within the past 3 years (2 years but less than 3 years ago)"
+   ],
+   [
+    4.0,
+    4.0,
+    "Within the past 5 years (3 years but less than 5 years ago)"
+   ],
+   [
+    5.0,
+    5.0,
+    "5 or more years ago"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "HADSIGM3": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "HADSGCO1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Sigmoidoscopy"
+   ],
+   [
+    2.0,
+    2.0,
+    "Colonoscopy"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "LASTSIG3": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Within the past year (anytime less than 12 months ago)"
+   ],
+   [
+    2.0,
+    2.0,
+    "Within the past 2 years (1 year but less than 2 years ago)"
+   ],
+   [
+    3.0,
+    3.0,
+    "Within the past 3 years (2 years but less than 3 years ago)"
+   ],
+   [
+    4.0,
+    4.0,
+    "Within the past 5 years (3 years but less than 5 years ago)"
+   ],
+   [
+    5.0,
+    5.0,
+    "Within the past 10 years (5 years but less than 10 years ago)"
+   ],
+   [
+    6.0,
+    6.0,
+    "10 or more years ago"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "PCPSAAD2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "PCPSADI1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "PCPSARE1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "PSATEST1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "PSATIME": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Within the past year (anytime less than 12 months ago)"
+   ],
+   [
+    2.0,
+    2.0,
+    "Within the past 2 years (1 year but less than 2 years ago)"
+   ],
+   [
+    3.0,
+    3.0,
+    "Within the past 3 years (2 years but less than 3 years ago)"
+   ],
+   [
+    4.0,
+    4.0,
+    "Within the past 5 years (3 years but less than 5 years ago)"
+   ],
+   [
+    5.0,
+    5.0,
+    "5 or more years ago"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "PCPSARS1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Part of a routine exam"
+   ],
+   [
+    2.0,
+    2.0,
+    "Because of a prostate problem"
+   ],
+   [
+    3.0,
+    3.0,
+    "Because of a family history of prostate cancer"
+   ],
+   [
+    4.0,
+    4.0,
+    "Because you were told you had prostate cancer"
+   ],
+   [
+    5.0,
+    5.0,
+    "Some other reason"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "PCPSADE1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "You made the decision alone"
+   ],
+   [
+    2.0,
+    2.0,
+    "Your doctor, nurse, or health care provider made the decision"
+   ],
+   [
+    3.0,
+    3.0,
+    "You and one or more other persons made the decision together"
+   ],
+   [
+    4.0,
+    4.0,
+    "You don’t remember how the decision was made"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "PCDMDECN": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Doctor/nurse/health care provider"
+   ],
+   [
+    2.0,
+    2.0,
+    "Spouse/significant other"
+   ],
+   [
+    3.0,
+    3.0,
+    "Other family member"
+   ],
+   [
+    4.0,
+    4.0,
+    "Friend/non-relative"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ],
+   [
+    12.0,
+    4328.0,
+    "Multiple responses"
+   ]
+  ]
+ },
+ "SCNTMNY1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Always"
+   ],
+   [
+    2.0,
+    2.0,
+    "Usually"
+   ],
+   [
+    3.0,
+    3.0,
+    "Sometimes"
+   ],
+   [
+    4.0,
+    4.0,
+    "Rarely"
+   ],
+   [
+    5.0,
+    5.0,
+    "Never"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    8.0,
+    8.0,
+    "Not applicable"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "SCNTMEL1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Always"
+   ],
+   [
+    2.0,
+    2.0,
+    "Usually"
+   ],
+   [
+    3.0,
+    3.0,
+    "Sometimes"
+   ],
+   [
+    4.0,
+    4.0,
+    "Rarely"
+   ],
+   [
+    5.0,
+    5.0,
+    "Never"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    8.0,
+    8.0,
+    "Not applicable"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "SCNTPAID": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Paid by salary"
+   ],
+   [
+    2.0,
+    2.0,
+    "Paid by the hour"
+   ],
+   [
+    3.0,
+    3.0,
+    "Paid by the job/task (e.g. commission, piecework)"
+   ],
+   [
+    4.0,
+    4.0,
+    "Paid some other way"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "SCNTWRK1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    96.0,
+    "Hours (1-96 or more)"
+   ],
+   [
+    97.0,
+    97.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    98.0,
+    98.0,
+    "Zero (none)"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "SCNTLPAD": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Paid by salary"
+   ],
+   [
+    2.0,
+    2.0,
+    "Paid by the hour"
+   ],
+   [
+    3.0,
+    3.0,
+    "Paid by the job/task (e.g. commission, piecework)"
+   ],
+   [
+    4.0,
+    4.0,
+    "Paid some other way"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "SCNTLWK1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    96.0,
+    "Hours (1-96 or more)"
+   ],
+   [
+    97.0,
+    97.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    98.0,
+    98.0,
+    "Zero (none)"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "SXORIENT": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Straight"
+   ],
+   [
+    2.0,
+    2.0,
+    "Lesbian or gay"
+   ],
+   [
+    3.0,
+    3.0,
+    "Bisexual"
+   ],
+   [
+    4.0,
+    4.0,
+    "Other"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "TRNSGNDR": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes, Transgender, male-to-female"
+   ],
+   [
+    2.0,
+    2.0,
+    "Yes, Transgender, female to male"
+   ],
+   [
+    3.0,
+    3.0,
+    "Yes, Transgender, gender nonconforming"
+   ],
+   [
+    4.0,
+    4.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "RCSGENDR": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Boy"
+   ],
+   [
+    2.0,
+    2.0,
+    "Girl"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "RCSRLTN2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Parent (include biologic, step, or adoptive parent)"
+   ],
+   [
+    2.0,
+    2.0,
+    "Grandparent"
+   ],
+   [
+    3.0,
+    3.0,
+    "Foster parent or guardian"
+   ],
+   [
+    4.0,
+    4.0,
+    "Sibling (include biologic, step, and adoptive sibling)"
+   ],
+   [
+    5.0,
+    5.0,
+    "Other relative"
+   ],
+   [
+    6.0,
+    6.0,
+    "Not related in any way"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "CASTHDX2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "CASTHNO2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "EMTSUPRT": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Always"
+   ],
+   [
+    2.0,
+    2.0,
+    "Usually"
+   ],
+   [
+    3.0,
+    3.0,
+    "Sometimes"
+   ],
+   [
+    4.0,
+    4.0,
+    "Rarely"
+   ],
+   [
+    5.0,
+    5.0,
+    "Never"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "LSATISFY": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Very satisfied"
+   ],
+   [
+    2.0,
+    2.0,
+    "Satisfied"
+   ],
+   [
+    3.0,
+    3.0,
+    "Dissatisfied"
+   ],
+   [
+    4.0,
+    4.0,
+    "Very dissatisfied"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "ADPLEASR": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    14.0,
+    "01-14 days"
+   ],
+   [
+    88.0,
+    88.0,
+    "None"
+   ],
+   [
+    77.0,
+    77.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "ADDOWN": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    14.0,
+    "01-14 days"
+   ],
+   [
+    88.0,
+    88.0,
+    "None"
+   ],
+   [
+    77.0,
+    77.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "ADSLEEP": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    14.0,
+    "01-14 days"
+   ],
+   [
+    88.0,
+    88.0,
+    "None"
+   ],
+   [
+    77.0,
+    77.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "ADENERGY": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    14.0,
+    "01-14 days"
+   ],
+   [
+    88.0,
+    88.0,
+    "None"
+   ],
+   [
+    77.0,
+    77.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "ADEAT1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    14.0,
+    "01-14 days"
+   ],
+   [
+    88.0,
+    88.0,
+    "None"
+   ],
+   [
+    77.0,
+    77.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "ADFAIL": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    14.0,
+    "01-14 days"
+   ],
+   [
+    88.0,
+    88.0,
+    "None"
+   ],
+   [
+    77.0,
+    77.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "ADTHINK": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    14.0,
+    "01-14 days"
+   ],
+   [
+    88.0,
+    88.0,
+    "None"
+   ],
+   [
+    77.0,
+    77.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "ADMOVE": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    14.0,
+    "01-14 days"
+   ],
+   [
+    88.0,
+    88.0,
+    "None"
+   ],
+   [
+    77.0,
+    77.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "MISTMNT": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "ADANXEV": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused"
+   ]
+  ]
+ },
+ "QSTVER": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    10.0,
+    10.0,
+    "Landline single questionnaire"
+   ],
+   [
+    11.0,
+    11.0,
+    "Landline multiple questionnaire version 1"
+   ],
+   [
+    12.0,
+    12.0,
+    "Landline multiple questionnaire version 2"
+   ],
+   [
+    13.0,
+    13.0,
+    "Landline multiple questionnaire version 3"
+   ],
+   [
+    20.0,
+    20.0,
+    "Cell Phone single questionnaire"
+   ],
+   [
+    21.0,
+    21.0,
+    "Cell Phone multiple questionnaire version 1"
+   ],
+   [
+    22.0,
+    22.0,
+    "Cell Phone multiple questionnaire version 2"
+   ],
+   [
+    23.0,
+    23.0,
+    "Cell Phone multiple questionnaire version 3"
+   ]
+  ]
+ },
+ "QSTLANG": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "English"
+   ],
+   [
+    2.0,
+    2.0,
+    "Spanish"
+   ],
+   [
+    3.0,
+    99.0,
+    "Other"
+   ]
+  ]
+ },
+ "EXACTOT1": {
+  "implied_decimals": 0,
+  "values": []
+ },
+ "EXACTOT2": {
+  "implied_decimals": 0,
+  "values": []
+ },
+ "MSCODE": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "In the center city of an MSA"
+   ],
+   [
+    2.0,
+    2.0,
+    "Outside the center city of an MSA but inside the county containing"
+   ],
+   [
+    3.0,
+    3.0,
+    "Inside a suburban county of the MSA"
+   ],
+   [
+    5.0,
+    5.0,
+    "Not in an MSA"
+   ]
+  ]
+ },
+ "_STSTR": {
+  "implied_decimals": 0,
+  "values": []
+ },
+ "_STRWT": {
+  "implied_decimals": 0,
+  "values": []
+ },
+ "_RAWRAKE": {
+  "implied_decimals": 0,
+  "values": []
+ },
+ "_WT2RAKE": {
+  "implied_decimals": 0,
+  "values": []
+ },
+ "_CHISPNC": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Child of Hispanic, Latino/a, or Spanish origin"
+   ],
+   [
+    2.0,
+    2.0,
+    "Child not of Hispanic, Latino/a, or Spanish origin"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don’t know/Not Sure/Refused"
+   ]
+  ]
+ },
+ "_CRACE1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "White only"
+   ],
+   [
+    2.0,
+    2.0,
+    "Black or African American only"
+   ],
+   [
+    3.0,
+    3.0,
+    "American Indian or Alaskan Native only"
+   ],
+   [
+    4.0,
+    4.0,
+    "Asian Only"
+   ],
+   [
+    5.0,
+    5.0,
+    "Native Hawaiian or other Pacific Islander only"
+   ],
+   [
+    6.0,
+    6.0,
+    "Other race only"
+   ],
+   [
+    7.0,
+    7.0,
+    "Multiracial"
+   ],
+   [
+    77.0,
+    77.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "_CPRACE": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "White"
+   ],
+   [
+    2.0,
+    2.0,
+    "Black or African American"
+   ],
+   [
+    3.0,
+    3.0,
+    "American Indian or Alaskan Native"
+   ],
+   [
+    4.0,
+    4.0,
+    "Asian"
+   ],
+   [
+    5.0,
+    5.0,
+    "Native Hawaiian or other Pacific Islander"
+   ],
+   [
+    6.0,
+    6.0,
+    "Other race"
+   ],
+   [
+    7.0,
+    7.0,
+    "No preferred race"
+   ],
+   [
+    77.0,
+    77.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "_CLLCPWT": {
+  "implied_decimals": 0,
+  "values": []
+ },
+ "_DUALUSE": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Landline frame with a cell phone"
+   ],
+   [
+    2.0,
+    2.0,
+    "Cell phone frame with a landline"
+   ],
+   [
+    9.0,
+    9.0,
+    "No Dual Phone Use"
+   ]
+  ]
+ },
+ "_DUALCOR": {
+  "implied_decimals": 0,
+  "values": []
+ },
+ "_LLCPWT": {
+  "implied_decimals": 0,
+  "values": []
+ },
+ "_RFHLTH": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Good or Better Health"
+   ],
+   [
+    2.0,
+    2.0,
+    "Fair or Poor Health"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don’t know/Not Sure Or Refused/Missing"
+   ]
+  ]
+ },
+ "_HCVU651": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Have health care coverage"
+   ],
+   [
+    2.0,
+    2.0,
+    "Do not have health care coverage"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don’t know/Not Sure, Refused or Missing"
+   ]
+  ]
+ },
+ "_RFHYPE5": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "No"
+   ],
+   [
+    2.0,
+    2.0,
+    "Yes"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don’t know/Not Sure/Refused/Missing"
+   ]
+  ]
+ },
+ "_CHOLCHK": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Had cholesterol checked in past 5 years"
+   ],
+   [
+    2.0,
+    2.0,
+    "Did not have cholesterol checked in past 5 years"
+   ],
+   [
+    3.0,
+    3.0,
+    "Have never had cholesterol checked"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don’t know/Not Sure Or Refused/Missing"
+   ]
+  ]
+ },
+ "_RFCHOL": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "No"
+   ],
+   [
+    2.0,
+    2.0,
+    "Yes"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don’t know/Not Sure Or Refused/Missing"
+   ]
+  ]
+ },
+ "_MICHD": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Reported having MI or CHD"
+   ],
+   [
+    2.0,
+    2.0,
+    "Did not report having MI or CHD"
+   ]
+  ]
+ },
+ "_LTASTH1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "No"
+   ],
+   [
+    2.0,
+    2.0,
+    "Yes"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don’t know/Not Sure Or Refused/Missing"
+   ]
+  ]
+ },
+ "_CASTHM1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "No"
+   ],
+   [
+    2.0,
+    2.0,
+    "Yes"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don’t know/Not Sure Or Refused/Missing"
+   ]
+  ]
+ },
+ "_ASTHMS1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Current"
+   ],
+   [
+    2.0,
+    2.0,
+    "Former"
+   ],
+   [
+    3.0,
+    3.0,
+    "Never"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don’t know/Not Sure Or Refused/Missing"
+   ]
+  ]
+ },
+ "_DRDXAR1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Diagnosed with arthritis"
+   ],
+   [
+    2.0,
+    2.0,
+    "Not diagnosed with arthritis"
+   ]
+  ]
+ },
+ "_PRACE1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "White"
+   ],
+   [
+    2.0,
+    2.0,
+    "Black or African American"
+   ],
+   [
+    3.0,
+    3.0,
+    "American Indian or Alaskan Native"
+   ],
+   [
+    4.0,
+    4.0,
+    "Asian"
+   ],
+   [
+    5.0,
+    5.0,
+    "Native Hawaiian or other Pacific Islander"
+   ],
+   [
+    6.0,
+    6.0,
+    "Other race"
+   ],
+   [
+    7.0,
+    7.0,
+    "No preferred race"
+   ],
+   [
+    8.0,
+    8.0,
+    "Multiracial but preferred race not answered"
+   ],
+   [
+    77.0,
+    77.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "_MRACE1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "White only"
+   ],
+   [
+    2.0,
+    2.0,
+    "Black or African American only"
+   ],
+   [
+    3.0,
+    3.0,
+    "American Indian or Alaskan Native only"
+   ],
+   [
+    4.0,
+    4.0,
+    "Asian Only"
+   ],
+   [
+    5.0,
+    5.0,
+    "Native Hawaiian or other Pacific Islander only"
+   ],
+   [
+    6.0,
+    6.0,
+    "Other race only"
+   ],
+   [
+    7.0,
+    7.0,
+    "Multiracial"
+   ],
+   [
+    77.0,
+    77.0,
+    "Don’t know/Not sure"
+   ],
+   [
+    99.0,
+    99.0,
+    "Refused"
+   ]
+  ]
+ },
+ "_HISPANC": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Hispanic, Latino/a, or Spanish origin"
+   ],
+   [
+    2.0,
+    2.0,
+    "Not of Hispanic, Latino/a, or Spanish origin"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don´t Know, Refused or Missing"
+   ]
+  ]
+ },
+ "_RACE": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "White only, non-Hispanic"
+   ],
+   [
+    2.0,
+    2.0,
+    "Black only, non-Hispanic"
+   ],
+   [
+    3.0,
+    3.0,
+    "American Indian or Alaskan Native only, Non-Hispanic"
+   ],
+   [
+    4.0,
+    4.0,
+    "Asian only, non-Hispanic"
+   ],
+   [
+    5.0,
+    5.0,
+    "Native Hawaiian or other Pacific Islander only, Non-Hispanic"
+   ],
+   [
+    6.0,
+    6.0,
+    "Other race only, non-Hispanic"
+   ],
+   [
+    7.0,
+    7.0,
+    "Multiracial, non-Hispanic"
+   ],
+   [
+    8.0,
+    8.0,
+    "Hispanic"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don’t know/Not sure/Refused"
+   ]
+  ]
+ },
+ "_RACEG21": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Non-Hispanic White"
+   ],
+   [
+    2.0,
+    2.0,
+    "Non-White or Hispanic"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don’t know/Not sure/Refused"
+   ]
+  ]
+ },
+ "_RACEGR3": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "White only, Non-Hispanic"
+   ],
+   [
+    2.0,
+    2.0,
+    "Black only, Non-Hispanic"
+   ],
+   [
+    3.0,
+    3.0,
+    "Other race only, Non-Hispanic"
+   ],
+   [
+    4.0,
+    4.0,
+    "Multiracial, Non-Hispanic"
+   ],
+   [
+    5.0,
+    5.0,
+    "Hispanic"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don’t know/Not sure/Refused"
+   ]
+  ]
+ },
+ "_RACE_G1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "White - Non-Hispanic"
+   ],
+   [
+    2.0,
+    2.0,
+    "Black - Non-Hispanic"
+   ],
+   [
+    3.0,
+    3.0,
+    "Hispanic"
+   ],
+   [
+    4.0,
+    4.0,
+    "Other race only, Non-Hispanic"
+   ],
+   [
+    5.0,
+    5.0,
+    "Multiracial, Non-Hispanic"
+   ]
+  ]
+ },
+ "_AGEG5YR": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Age 18 to 24"
+   ],
+   [
+    2.0,
+    2.0,
+    "Age 25 to 29"
+   ],
+   [
+    3.0,
+    3.0,
+    "Age 30 to 34"
+   ],
+   [
+    4.0,
+    4.0,
+    "Age 35 to 39"
+   ],
+   [
+    5.0,
+    5.0,
+    "Age 40 to 44"
+   ],
+   [
+    6.0,
+    6.0,
+    "Age 45 to 49"
+   ],
+   [
+    7.0,
+    7.0,
+    "Age 50 to 54"
+   ],
+   [
+    8.0,
+    8.0,
+    "Age 55 to 59"
+   ],
+   [
+    9.0,
+    9.0,
+    "Age 60 to 64"
+   ],
+   [
+    10.0,
+    10.0,
+    "Age 65 to 69"
+   ],
+   [
+    11.0,
+    11.0,
+    "Age 70 to 74"
+   ],
+   [
+    12.0,
+    12.0,
+    "Age 75 to 79"
+   ],
+   [
+    13.0,
+    13.0,
+    "Age 80 or older"
+   ],
+   [
+    14.0,
+    14.0,
+    "Don’t know/Refused/Missing"
+   ]
+  ]
+ },
+ "_AGE65YR": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Age 18 to 64"
+   ],
+   [
+    2.0,
+    2.0,
+    "Age 65 or older"
+   ],
+   [
+    3.0,
+    3.0,
+    "Don’t know/Refused/Missing"
+   ]
+  ]
+ },
+ "_AGE80": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    18.0,
+    24.0,
+    "Imputed Age 18 to 24"
+   ],
+   [
+    25.0,
+    29.0,
+    "Imputed Age 25 to 29"
+   ],
+   [
+    30.0,
+    34.0,
+    "Imputed Age 30 to 34"
+   ],
+   [
+    35.0,
+    39.0,
+    "Imputed Age 35 to 39"
+   ],
+   [
+    40.0,
+    44.0,
+    "Imputed Age 40 to 44"
+   ],
+   [
+    45.0,
+    49.0,
+    "Imputed Age 45 to 49"
+   ],
+   [
+    50.0,
+    54.0,
+    "Imputed Age 50 to 54"
+   ],
+   [
+    55.0,
+    59.0,
+    "Imputed Age 55 to 59"
+   ],
+   [
+    60.0,
+    64.0,
+    "Imputed Age 60 to 64"
+   ],
+   [
+    65.0,
+    69.0,
+    "Imputed Age 65 to 69"
+   ],
+   [
+    70.0,
+    74.0,
+    "Imputed Age 70 to 74"
+   ],
+   [
+    75.0,
+    79.0,
+    "Imputed Age 75 to 79"
+   ],
+   [
+    80.0,
+    99.0,
+    "Imputed Age 80 or older"
+   ]
+  ]
+ },
+ "_AGE_G": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Age 18 to 24"
+   ],
+   [
+    2.0,
+    2.0,
+    "Age 25 to 34"
+   ],
+   [
+    3.0,
+    3.0,
+    "Age 35 to 44"
+   ],
+   [
+    4.0,
+    4.0,
+    "Age 45 to 54"
+   ],
+   [
+    5.0,
+    5.0,
+    "Age 55 to 64"
+   ],
+   [
+    6.0,
+    6.0,
+    "Age 65 or older"
+   ]
+  ]
+ },
+ "HTIN4": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    36.0,
+    95.0,
+    "Height in inches"
+   ]
+  ]
+ },
+ "HTM4": {
+  "implied_decimals": 2,
+  "values": [
+   [
+    91.0,
+    244.0,
+    "Height in meters [2 implied decimal places]"
+   ]
+  ]
+ },
+ "WTKG3": {
+  "implied_decimals": 2,
+  "values": [
+   [
+    2300.0,
+    29500.0,
+    "Weight in kilograms [2 implied decimal places]"
+   ],
+   [
+    99999.0,
+    99999.0,
+    "Don’t know/Refused/Missing"
+   ]
+  ]
+ },
+ "_BMI5": {
+  "implied_decimals": 2,
+  "values": [
+   [
+    1.0,
+    9999.0,
+    "1 or greater"
+   ]
+  ]
+ },
+ "_BMI5CAT": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Underweight"
+   ],
+   [
+    2.0,
+    2.0,
+    "Normal Weight"
+   ],
+   [
+    3.0,
+    3.0,
+    "Overweight"
+   ],
+   [
+    4.0,
+    4.0,
+    "Obese"
+   ]
+  ]
+ },
+ "_RFBMI5": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "No"
+   ],
+   [
+    2.0,
+    2.0,
+    "Yes"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don’t know/Refused/Missing"
+   ]
+  ]
+ },
+ "_CHLDCNT": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "No children in household"
+   ],
+   [
+    2.0,
+    2.0,
+    "One child in household"
+   ],
+   [
+    3.0,
+    3.0,
+    "Two children in household"
+   ],
+   [
+    4.0,
+    4.0,
+    "Three children in household"
+   ],
+   [
+    5.0,
+    5.0,
+    "Four children in household"
+   ],
+   [
+    6.0,
+    6.0,
+    "Five or more children in household"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don’t know/Not sure/Missing"
+   ]
+  ]
+ },
+ "_EDUCAG": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Did not graduate High School"
+   ],
+   [
+    2.0,
+    2.0,
+    "Graduated High School"
+   ],
+   [
+    3.0,
+    3.0,
+    "Attended College or Technical School"
+   ],
+   [
+    4.0,
+    4.0,
+    "Graduated from College or Technical School"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don’t know/Not sure/Missing"
+   ]
+  ]
+ },
+ "_INCOMG": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Less than $15,000"
+   ],
+   [
+    2.0,
+    2.0,
+    "$15,000 to less than $25,000"
+   ],
+   [
+    3.0,
+    3.0,
+    "$25,000 to less than $35,000"
+   ],
+   [
+    4.0,
+    4.0,
+    "$35,000 to less than $50,000"
+   ],
+   [
+    5.0,
+    5.0,
+    "$50,000 or more"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don’t know/Not sure/Missing"
+   ]
+  ]
+ },
+ "_SMOKER3": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Current smoker - now smokes every day"
+   ],
+   [
+    2.0,
+    2.0,
+    "Current smoker - now smokes some days"
+   ],
+   [
+    3.0,
+    3.0,
+    "Former smoker"
+   ],
+   [
+    4.0,
+    4.0,
+    "Never smoked"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don’t know/Refused/Missing"
+   ]
+  ]
+ },
+ "_RFSMOK3": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "No"
+   ],
+   [
+    2.0,
+    2.0,
+    "Yes"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don’t know/Refused/Missing"
+   ]
+  ]
+ },
+ "DRNKANY5": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    7.0,
+    7.0,
+    "Don’t know/Not Sure"
+   ],
+   [
+    9.0,
+    9.0,
+    "Refused/Missing"
+   ]
+  ]
+ },
+ "DROCDY3_": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    0.0,
+    0.0,
+    "No Drink-Occasions per day"
+   ],
+   [
+    1.0,
+    899.0,
+    "Drink-Occasions per day"
+   ],
+   [
+    900.0,
+    900.0,
+    "Don’t know/Not Sure Or Refused/Missing"
+   ]
+  ]
+ },
+ "_RFBING5": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "No"
+   ],
+   [
+    2.0,
+    2.0,
+    "Yes"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don’t know/Refused/Missing"
+   ]
+  ]
+ },
+ "_DRNKWEK": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    0.0,
+    0.0,
+    "Did not drink"
+   ],
+   [
+    1.0,
+    98999.0,
+    "Number of drinks per week"
+   ],
+   [
+    99900.0,
+    99900.0,
+    "Don’t know/Not sure/Refused/Missing"
+   ]
+  ]
+ },
+ "_RFDRHV5": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "No"
+   ],
+   [
+    2.0,
+    2.0,
+    "Yes"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don’t know/Refused/Missing"
+   ]
+  ]
+ },
+ "FTJUDA1_": {
+  "implied_decimals": 2,
+  "values": [
+   [
+    0.0,
+    9999.0,
+    "Times per day (two implied decimal places)"
+   ]
+  ]
+ },
+ "FRUTDA1_": {
+  "implied_decimals": 2,
+  "values": [
+   [
+    0.0,
+    9999.0,
+    "Times per day (two implied decimal places)"
+   ]
+  ]
+ },
+ "BEANDAY_": {
+  "implied_decimals": 2,
+  "values": [
+   [
+    0.0,
+    9999.0,
+    "Times per day (two implied decimal places)"
+   ]
+  ]
+ },
+ "GRENDAY_": {
+  "implied_decimals": 2,
+  "values": [
+   [
+    0.0,
+    9999.0,
+    "Times per day (two implied decimal places)"
+   ]
+  ]
+ },
+ "ORNGDAY_": {
+  "implied_decimals": 2,
+  "values": [
+   [
+    0.0,
+    9999.0,
+    "Times per day (two implied decimal places)"
+   ]
+  ]
+ },
+ "VEGEDA1_": {
+  "implied_decimals": 2,
+  "values": [
+   [
+    0.0,
+    9999.0,
+    "Times per day (two implied decimal places)"
+   ]
+  ]
+ },
+ "_MISFRTN": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    0.0,
+    0.0,
+    "No missing fruit responses"
+   ],
+   [
+    1.0,
+    2.0,
+    "Has 1 or 2 missing fruit responses"
+   ]
+  ]
+ },
+ "_MISVEGN": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    0.0,
+    0.0,
+    "No missing vegetable responses"
+   ],
+   [
+    1.0,
+    4.0,
+    "Has 1, 2, 3, or 4 missing vegetable responses"
+   ]
+  ]
+ },
+ "_FRTRESP": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    0.0,
+    0.0,
+    "Not Included - Missing Fruit Responses"
+   ],
+   [
+    1.0,
+    1.0,
+    "Included - Not Missing Fruit Responses"
+   ]
+  ]
+ },
+ "_VEGRESP": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    0.0,
+    0.0,
+    "Not Included - Missing Vegetable Responses"
+   ],
+   [
+    1.0,
+    1.0,
+    "Included - Not Missing Vegetable Responses"
+   ]
+  ]
+ },
+ "_FRUTSUM": {
+  "implied_decimals": 2,
+  "values": [
+   [
+    0.0,
+    99998.0,
+    "Number of Fruits consumed per day (two implied decimal places)"
+   ]
+  ]
+ },
+ "_VEGESUM": {
+  "implied_decimals": 2,
+  "values": [
+   [
+    0.0,
+    99998.0,
+    "Number of Vegetables consumed per day (two implied decimal places)"
+   ]
+  ]
+ },
+ "_FRTLT1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Consumed fruit one or more times per day"
+   ],
+   [
+    2.0,
+    2.0,
+    "Consumed fruit less than one time per day"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don´t know, refused or missing values"
+   ]
+  ]
+ },
+ "_VEGLT1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Consumed vegetables one or more times per day"
+   ],
+   [
+    2.0,
+    2.0,
+    "Consumed vegetables less than one time per day"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don´t know, refused or missing values"
+   ]
+  ]
+ },
+ "_FRT16": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    0.0,
+    0.0,
+    "Not Included - Values are too high"
+   ],
+   [
+    1.0,
+    1.0,
+    "Included - Values are in accepted range"
+   ]
+  ]
+ },
+ "_VEG23": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    0.0,
+    0.0,
+    "Not Included - Values are too high"
+   ],
+   [
+    1.0,
+    1.0,
+    "Included - Values are in accepted range"
+   ]
+  ]
+ },
+ "_FRUITEX": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    0.0,
+    0.0,
+    "No missing values and in accepted range"
+   ],
+   [
+    1.0,
+    1.0,
+    "Missing Fruit responses"
+   ],
+   [
+    2.0,
+    2.0,
+    "Fruit values out of range"
+   ]
+  ]
+ },
+ "_VEGETEX": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    0.0,
+    0.0,
+    "No missing values and in accepted range"
+   ],
+   [
+    1.0,
+    1.0,
+    "Missing Vegetable responses"
+   ],
+   [
+    2.0,
+    2.0,
+    "Vegetable values out of range"
+   ]
+  ]
+ },
+ "_TOTINDA": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Had physical activity or exercise"
+   ],
+   [
+    2.0,
+    2.0,
+    "No physical activity or exercise in last 30 days"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don’t know/Refused/Missing"
+   ]
+  ]
+ },
+ "METVL11_": {
+  "implied_decimals": 1,
+  "values": [
+   [
+    0.0,
+    0.0,
+    "Activity MET Value"
+   ],
+   [
+    1.0,
+    128.0,
+    "Activity MET Value (one implied decimal place)"
+   ]
+  ]
+ },
+ "METVL21_": {
+  "implied_decimals": 1,
+  "values": [
+   [
+    0.0,
+    0.0,
+    "Activity MET Value"
+   ],
+   [
+    1.0,
+    128.0,
+    "Activity MET Value (one implied decimal place)"
+   ]
+  ]
+ },
+ "MAXVO2_": {
+  "implied_decimals": 2,
+  "values": [
+   [
+    0.0,
+    501.0,
+    "Estimated Maximum Oxygen Consumption   (two implied decimal places)"
+   ],
+   [
+    99900.0,
+    99900.0,
+    "Don’t know/Not Sure/Refused/Missing"
+   ]
+  ]
+ },
+ "FC60_": {
+  "implied_decimals": 2,
+  "values": [
+   [
+    0.0,
+    8590.0,
+    "Estimated Functional Capacity (2 implied decimal places)"
+   ],
+   [
+    99900.0,
+    99900.0,
+    "Don’t know/Not Sure/Refused/Missing"
+   ]
+  ]
+ },
+ "ACTIN11_": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    0.0,
+    0.0,
+    "Not Moderate or Vigorous or No Activity"
+   ],
+   [
+    1.0,
+    1.0,
+    "Moderate"
+   ],
+   [
+    2.0,
+    2.0,
+    "Vigorous"
+   ]
+  ]
+ },
+ "ACTIN21_": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    0.0,
+    0.0,
+    "Not Moderate or Vigorous or No Activity"
+   ],
+   [
+    1.0,
+    1.0,
+    "Moderate"
+   ],
+   [
+    2.0,
+    2.0,
+    "Vigorous"
+   ]
+  ]
+ },
+ "PADUR1_": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    0.0,
+    599.0,
+    "Minutes of Activity"
+   ]
+  ]
+ },
+ "PADUR2_": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    0.0,
+    599.0,
+    "Minutes of Activity"
+   ]
+  ]
+ },
+ "PAFREQ1_": {
+  "implied_decimals": 3,
+  "values": [
+   [
+    0.0,
+    98999.0,
+    "Activity times per week (3 implied decimal places)"
+   ],
+   [
+    99000.0,
+    99000.0,
+    "Don’t know/Not Sure/Refused"
+   ]
+  ]
+ },
+ "PAFREQ2_": {
+  "implied_decimals": 3,
+  "values": [
+   [
+    0.0,
+    98999.0,
+    "Activity times per week (3 implied decimal places)"
+   ],
+   [
+    99000.0,
+    99000.0,
+    "Don’t know/Not Sure/Refused"
+   ]
+  ]
+ },
+ "_MINAC11": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    0.0,
+    0.0,
+    "Minutes of Activity per week"
+   ],
+   [
+    1.0,
+    99999.0,
+    "Minutes of Activity per week"
+   ]
+  ]
+ },
+ "_MINAC21": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    0.0,
+    0.0,
+    "Minutes of Activity per week"
+   ],
+   [
+    1.0,
+    99999.0,
+    "Minutes of Activity per week"
+   ]
+  ]
+ },
+ "STRFREQ_": {
+  "implied_decimals": 3,
+  "values": [
+   [
+    0.0,
+    98999.0,
+    "Strength Activity times per week (3 implied decimal places)"
+   ],
+   [
+    99000.0,
+    99000.0,
+    "Don’t know/Not Sure/Refused"
+   ]
+  ]
+ },
+ "PAMISS1_": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    0.0,
+    0.0,
+    "Not Missing Physical Activity Data"
+   ],
+   [
+    1.0,
+    1.0,
+    "Missing Physical Activity Data"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don’t know/Not Sure/Refused"
+   ]
+  ]
+ },
+ "PAMIN11_": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    0.0,
+    99999.0,
+    "Minutes of Activity per week"
+   ]
+  ]
+ },
+ "PAMIN21_": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    0.0,
+    99999.0,
+    "Minutes of Activity per week"
+   ]
+  ]
+ },
+ "PA1MIN_": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    0.0,
+    99999.0,
+    "Minutes of Activity per week"
+   ]
+  ]
+ },
+ "PAVIG11_": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    0.0,
+    99999.0,
+    "Minutes of Activity per week"
+   ]
+  ]
+ },
+ "PAVIG21_": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    0.0,
+    99999.0,
+    "Minutes of Activity per week"
+   ]
+  ]
+ },
+ "PA1VIGM_": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    0.0,
+    99999.0,
+    "Minutes of Activity per week"
+   ]
+  ]
+ },
+ "_PACAT1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Highly Active"
+   ],
+   [
+    2.0,
+    2.0,
+    "Active"
+   ],
+   [
+    3.0,
+    3.0,
+    "Insufficiently Active"
+   ],
+   [
+    4.0,
+    4.0,
+    "Inactive"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don’t know/Not Sure/Refused/Missing"
+   ]
+  ]
+ },
+ "_PAINDX1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Meet Aerobic Recommendations"
+   ],
+   [
+    2.0,
+    2.0,
+    "Did Not Meet Aerobic Recommendations"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don’t know/Not Sure/Refused/Missing"
+   ]
+  ]
+ },
+ "_PA150R2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "150+ minutes (or vigorous equivalent minutes) of physical activity"
+   ],
+   [
+    2.0,
+    2.0,
+    "1-149 minutes    (or vigorous equivalent minutes) of physical"
+   ],
+   [
+    3.0,
+    3.0,
+    "0 minutes (or vigorous equivalent minutes) of physical activity"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don’t know/Not Sure/Refused/Missing"
+   ]
+  ]
+ },
+ "_PA300R2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "301+ minutes    (or vigorous equivalent minutes) of physical activity"
+   ],
+   [
+    2.0,
+    2.0,
+    "1-300 minutes     (or vigorous equivalent minutes) of physical"
+   ],
+   [
+    3.0,
+    3.0,
+    "0 minutes     (or vigorous equivalent minutes) of physical activity"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don’t know/Not Sure/Refused/Missing"
+   ]
+  ]
+ },
+ "_PA30021": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "301+ minutes    (or vigorous equivalent minutes) of physical activity"
+   ],
+   [
+    2.0,
+    2.0,
+    "0-300 minutes     (or vigorous equivalent minutes) of physical"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don’t know/Not Sure/Refused/Missing"
+   ]
+  ]
+ },
+ "_PASTRNG": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Meet muscle strengthening recommendations"
+   ],
+   [
+    2.0,
+    2.0,
+    "Did not meet muscle strengthening recommendations"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don’t know/Not Sure/Refused/Missing"
+   ]
+  ]
+ },
+ "_PAREC1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Met Both Guidelines"
+   ],
+   [
+    2.0,
+    2.0,
+    "Met Aerobic Guidelines Only"
+   ],
+   [
+    3.0,
+    3.0,
+    "Met Strengthening Guidelines Only"
+   ],
+   [
+    4.0,
+    4.0,
+    "Did not meet Either Guideline"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don’t know/Not Sure/Refused/Missing"
+   ]
+  ]
+ },
+ "_PASTAE1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Met Both Guidelines"
+   ],
+   [
+    2.0,
+    2.0,
+    "Did Not Meet Both Guidelines"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don’t know/Not Sure/Refused/Missing"
+   ]
+  ]
+ },
+ "_LMTACT1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Told have arthritis and have limited usual activities"
+   ],
+   [
+    2.0,
+    2.0,
+    "Told have arthritis and no limited usual activities"
+   ],
+   [
+    3.0,
+    3.0,
+    "Not told they have arthritis"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don´t know, refused or missing usual activities limited"
+   ]
+  ]
+ },
+ "_LMTWRK1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Told have arthritis and have limited work"
+   ],
+   [
+    2.0,
+    2.0,
+    "Told have arthritis and no limited work"
+   ],
+   [
+    3.0,
+    3.0,
+    "Not told they have arthritis"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don´t know, refused or missing work limited"
+   ]
+  ]
+ },
+ "_LMTSCL1": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Told have arthritis and social activities limited a lot"
+   ],
+   [
+    2.0,
+    2.0,
+    "Told have arthritis and social activities limited a little"
+   ],
+   [
+    3.0,
+    3.0,
+    "Told have arthritis and social activities not limited"
+   ],
+   [
+    4.0,
+    4.0,
+    "Not told they have arthritis"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don´t know, refused or missing social activities limited"
+   ]
+  ]
+ },
+ "_RFSEAT2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Always or Almost Always Wear Seat Belt"
+   ],
+   [
+    2.0,
+    2.0,
+    "Sometimes, Seldom, or Never Wear Seat Belt"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don’t know/Not Sure Or Refused/Missing"
+   ]
+  ]
+ },
+ "_RFSEAT3": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Always Wear Seat Belt"
+   ],
+   [
+    2.0,
+    2.0,
+    "Don’t Always Wear Seat Belt"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don’t know/Not Sure Or Refused/Missing"
+   ]
+  ]
+ },
+ "_FLSHOT6": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don’t know/Not Sure Or Refused/Missing"
+   ]
+  ]
+ },
+ "_PNEUMO2": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don’t know/Not Sure Or Refused/Missing"
+   ]
+  ]
+ },
+ "_AIDTST3": {
+  "implied_decimals": 0,
+  "values": [
+   [
+    1.0,
+    1.0,
+    "Yes"
+   ],
+   [
+    2.0,
+    2.0,
+    "No"
+   ],
+   [
+    9.0,
+    9.0,
+    "Don’t know/Not Sure/Refused"
+   ]
+  ]
+ }
+}
