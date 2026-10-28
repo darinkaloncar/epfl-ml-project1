@@ -1,0 +1,88 @@
+\documentclass[10pt,conference,compsocconf]{IEEEtran}
+
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage{amsmath,amssymb}
+\usepackage{booktabs}
+
+\begin{document}
+\title{Predicting Coronary Heart Disease from the BRFSS Survey}
+
+\author{
+  \textit{School of Computer and Communication Sciences, EPFL, Switzerland}
+}
+
+\maketitle
+
+\begin{abstract}
+\end{abstract}
+
+\section{Introduction}
+
+\section{Gradient-Boosted Decision Trees}
+
+The idea of GBDT~\cite{friedman01gbm} is to build an additive model on the log odds, $s(\mathbf{x}) = s_0 + \eta\sum_{k=1}^K{f_k(\mathbf{x})}$,
+where $f_k(\mathbf{x})$ represents $k$-th tree, and $s_0$ represents base rate of the positive class, that is:
+\begin{equation*}
+  s_0 = \log{\frac{\hat{p}}{1-\hat{p}}}, \quad \hat{p} = \frac{1}{n}\sum_{i}{\mathbf{1}\{y_i = 1\}}.
+\end{equation*}
+
+The goal of the method is to have a sequence of trees that would sequentially improve the scores. At each round, we compute for every single sample the gradient $g = p - y$, where $p = \sigma(s(\mathbf{x}))$ and the Hessian $h = p(1 - p)$, and fit one regression tree to all of them. The intuition is as follows: Suppose that we have $y = 1$ and current prediction probability $p = 0.3$, it's clear to see that the gradient will be given by $g = -0.7$ which means that we should increase the score. Similarly, the Hessian represents the curvature, or the confidence in our prediction, as we can see that the expression will be maximized as $p \rightarrow \frac{1}{2}$, and is minimized for confident predictions $p \rightarrow \{0,1\}$. 
+
+At each leaf we take a Newton-step $-\frac{G_\ell}{H_\ell + \lambda_{\text{leaf}}}$, where $G_\ell$ and $H_\ell$ are the sums of $g$ and $h$ over that leaf. This is the result of minimizing the second-order Taylor expansion over parameter $w$ of the expression:
+\begin{equation*}
+  \sum_i \ell(y_i, s_i + w) \approx \text{const} + G\,w + \tfrac12 (H + \lambda)\, w^2,
+\end{equation*}
+where $G = \sum g_i,\; H = \sum h_i$~\cite{chen16xgboost}.
+
+Each tree outputs $w_\text{leaf}$ for all the samples in it. We can see that splitting a node into left and right children gives us the following advantage:
+\begin{equation*}
+  \text{gain} = \tfrac12\left[\frac{G_L^2}{H_L+\lambda} + \frac{G_R^2}{H_R+\lambda} - \frac{G^2}{H+\lambda}\right],
+\end{equation*}
+where $L$ and $R$ indicate left and right child, respectively. We only split a node if both children have $H_L, H_R \geq H_{min}$, so that we do not create trees for small number of already confident samples.
+
+Finally, since finding the splitting thresholds would be too slow if we took into account all the possible thresholds, we decide on binning our values inside $64$ bins, where bin $0$ corresponds to NaN values, while the other $63$ bins are computed on the train set and are ordered. For ordered values, the bins smaller than the threshold go to the left child and the larger ones to the right, while the $0$-th bin can go either way. For categorical bins, we use the trick from \cite{ke17lightgbm} so that we overcome combinatorial nature of all possible permutations. 
+
+We fit each tree on $70\%$ random rows and columns (features), with learning rate $\eta = 0.05$, $H_{min} = 10$, and regularization parameter $\lambda_{\text{leaf}} = 1$. All randomness is seeded, so the submission is exactly reproducible.
+
+\subsection{Results}
+
+To test the GBDT model we use 5-fold CV. To determine the number of trees we use early stopping with patience 50 epochs, on 10\% hold-out of the current training fold, which also serves to choose the F1-maximizing decision threshold. Since this hold-out contains only $\approx$2{,}300 positives, the threshold is noisy (0.20--0.25 across folds); for the final model we therefore also choose it on the pooled out-of-fold predictions of the other four folds, which never uses the scored fold. Table~\ref{tab:gbdt} summarizes the results.
+
+For features, we started with 97 processed features which were first used in the linear model, where GBDT achieves F1 of $0.4403$, already greater than all logistic variants we previously tried. Additionally, giving it all 176 recoded columns from preprocessing with NaNs kept (NaNs are in the previously mentioned $0$-th bin.) increases F1 by $+0.002$ and lowers average log-loss $0.2190 \rightarrow 0.2181$. With the threshold from the other folds, the best value is $\tau = 0.21$ in every fold and we achieve F1 of $0.4435 \pm 0.0038$ across 5 folds using $\tau$.
+
+Regarding hyperparameters, we do small search on fold 0. We find that depth 3 is too shallow for different interactions, and depths 4/5 are very close to each other (these results hold for learning rate $\eta = 0.1$). Lowering $\eta = 0.05$, changes the picture such that now depth 4 achieves the lowest log-loss, and for this depth the folds stop at $464$ trees on average.
+
+For this model (depth 4, $\eta = 0.1$) adding raw leftover columns decreases log-loss by no more than $10^{-4}$, with F1 difference around $\pm 0.002$, which are not always followed by the sign of log-loss difference.
+
+The final model trained on the full training set is constructed with $500$ trees (to account for an increase in data) and achieves \textbf{F1 0.451} and \textbf{Accuracy 0.877}, for threshold $\tau = 0.21$.
+
+\begin{table}[tbp]
+  \centering
+  \footnotesize
+  \caption{GBDT results. Top: 5-fold CV (mean)
+  Bottom: fold 0, log-loss $\times10^3$.}
+  \label{tab:gbdt}
+  \setlength{\tabcolsep}{4pt}
+  \begin{tabular}{@{}lcc@{}}
+    \toprule
+    5-fold CV & F1 & Log-loss \\
+    \midrule
+    97 imputed features & 0.4403 & 0.2190 \\
+    176 recoded, NaN kept & 0.4423 & 0.2181 \\
+    \quad + threshold $\tau=0.21$ & \textbf{0.4435} & 0.2181 \\
+    \midrule
+    Fold 0 & $\eta=0.1$ & $\eta=0.05$ \\
+    \midrule
+    depth 3 & 216.85 & -- \\
+    depth 4 & 216.69 & \textbf{216.24} \\
+    depth 5 & 216.63 & 216.32 \\
+    depth 4 + dropped raw cols. & 216.62--217.34 & -- \\
+    \bottomrule
+  \end{tabular}
+\end{table}
+
+\bibliographystyle{IEEEtran}
+\bibliography{literature}
+
+\end{document}
