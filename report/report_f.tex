@@ -9,17 +9,96 @@
 \title{Predicting Coronary Heart Disease from the BRFSS Survey}
 
 \author{
+  Milos Tomic, Darinka Loncar, Ismail Temmar\\  \\
   \textit{School of Computer and Communication Sciences, EPFL, Switzerland}
 }
 
 \maketitle
 
 \begin{abstract}
+We predict coronary heart disease (MICHD) from the 2015 Behavioral Risk Factor
+Surveillance System (BRFSS), a telephone survey of over 300{,}000 US adults with
+321 coded answers each. Only 8.8\% of respondents are positive, so we optimize
+F1 and tune the decision threshold. We first build regularized logistic
+regression trained with Newton's method as a baseline (test F1 0.439). We then
+decode the survey using its codebook, recovering units, skip-logic answers and
+missingness patterns, and train our own gradient-boosted decision trees in
+NumPy, which reach a cross-validated F1 of $0.4435 \pm 0.0038$ and a test F1 of
+0.451.
 \end{abstract}
 
 \section{Introduction}
 
+Coronary heart disease is a leading cause of death~\cite{cdcHeartDisease}, and many of its risk
+factors (age, hypertension, smoking, diabetes, inactivity) are captured by
+self-reported lifestyle surveys. Our task is to predict whether a BRFSS
+respondent has ever been diagnosed with MICHD, i.e.\ heart attack or angina.
+
+The data is hard for three reasons. (i) It is a raw survey, not a clean
+feature matrix: answers mix units (e.g.\ weight in pounds or kilograms),
+packed encodings (``1xx'' per week, ``2xx'' per month), and special codes for
+``don't know'' or ``refused''. (ii) Many questions are only asked after a
+filter question, so most missing values carry information instead of being
+random. (iii) The classes are imbalanced (8.8\% positive), which makes
+accuracy misleading and F1 sensitive to the decision threshold.
+
+We describe our feature processing in Sec.~\ref{sec:data}, a regularized
+logistic regression baseline in Sec.~\ref{sec:linear}, and our gradient-boosted
+trees in Sec.~\ref{sec:gbdt}, and compare them in Sec.~\ref{sec:compare}.
+
+\section{Feature Processing}
+\label{sec:data}
+
+The final GBDT pipeline uses codebook-based preprocessing~\cite{cdcBRFSS2015Codebook};
+the logistic baseline uses the separate processing described
+in Section~\ref{sec:linear}. Identifiers are excluded from
+predictors and used to align observations with labels.
+
+We map feature-specific unknown and refused responses to
+NaN, encode binary answers as 1/0, and convert packed
+frequencies to common units. Missing follow-ups are filled
+when a preceding response determines their value: for example,
+no alcohol consumption implies zero drinking quantities.
+Other missing values remain NaN.
+
+We merge household adult counts across telephone
+questionnaires and derive diabetes duration, an indicator
+of HIV testing within five years, and a cognitive-impact
+score averaging the available responses across three reversed
+response scales.
+\texttt{UNSURE\_CHRONIC} indicates an explicit ``don't know''
+response to any of eleven chronic-condition questions.
+
+We remove administrative variables, survey weights, selected
+optional-module questions, and redundant representations,
+retaining 176 features. The final tree pipeline applies no
+additional percentile capping or imputation. Histogram
+boundaries are fitted on training observations and reused
+for test data, with a separate bin for missing values.
+Nominal variables are marked for categorical splitting.
+\texttt{HAREHAB1} is excluded from predictors and used only
+in the override described in Section~\ref{sec:compare}.
+
+
+
+\section{Baseline: Regularized Logistic Regression}
+\label{sec:linear}
+
+Our first model minimizes the logistic loss with an $L_2$ penalty,
+$\frac{1}{N}\sum_i \ell(y_i, \mathbf{x}_i^\top \mathbf{w}) + \lambda\|\mathbf{w}\|^2$.
+Gradient descent needed hundreds of steps to converge, so we use Newton's method:
+each step solves $(\frac{1}{N}X^\top S X + 2\lambda I)\,\Delta\mathbf{w} = \nabla L$,
+with $S = \mathrm{diag}(p_i(1-p_i))$, and the loss stops changing after about six
+steps. A linear model cannot handle missing values or unordered categories by
+itself, so we impute missing values with the training median, add a binary
+``was missing'' indicator per feature, one-hot encode categorical columns, add
+squared terms for continuous columns, and standardize all features. We choose
+$\lambda \in \{10^{-4}, 10^{-3}, 10^{-2}\}$ and the decision threshold jointly
+by 5-fold cross-validation on F1. This model reaches a test F1 of 0.439
+(Table~\ref{tab:compare}).
+
 \section{Gradient-Boosted Decision Trees}
+\label{sec:gbdt}
 
 The idea of GBDT~\cite{friedman01gbm} is to build an additive model on the log odds, $s(\mathbf{x}) = s_0 + \eta\sum_{k=1}^K{f_k(\mathbf{x})}$,
 where $f_k(\mathbf{x})$ represents $k$-th tree, and $s_0$ represents base rate of the positive class, that is:
@@ -81,6 +160,38 @@ The final model trained on the full training set is constructed with $500$ trees
     \bottomrule
   \end{tabular}
 \end{table}
+
+\section{Comparison}
+\label{sec:compare}
+
+\begin{table}[tbp]
+  \centering
+  \footnotesize
+  \caption{Test-set (AIcrowd) results. The all-negative accuracy is
+  estimated from the training positive rate.}
+  \label{tab:compare}
+  \begin{tabular}{@{}lcc@{}}
+    \toprule
+    Model & F1 & Accuracy \\
+    \midrule
+    Always predict $-1$ & 0 & $\approx$0.91 \\
+    Reg.\ logistic regression (Newton) & 0.439 & 0.876 \\
+    GBDT + \texttt{HAREHAB1} override & \textbf{0.451} & \textbf{0.877} \\
+    \bottomrule
+  \end{tabular}
+\end{table}
+
+On the hidden test set, GBDT improves F1 over our best regularized logistic
+regression from 0.439 to 0.451 (Table~\ref{tab:compare}). Accuracy stays
+essentially unchanged (0.876 vs.\ 0.877) and is below that of the trivial
+all-negative classifier, which shows why accuracy is uninformative here.
+In the GBDT model, we force the prediction to positive for every respondent
+who answered \texttt{HAREHAB1} (cardiac rehabilitation): this question is only asked of
+heart-attack survivors, and all 773 such training respondents are positive.
+We do not apply this rule to the logistic model, which labels only 154 of the
+238 such test respondents as positive. Applying the same rule would raise its
+F1 to roughly 0.444, still below the GBDT model, so the rule alone does not explain the
+gap between the two models.
 
 \bibliographystyle{IEEEtran}
 \bibliography{literature}
