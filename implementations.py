@@ -5,6 +5,60 @@ from dataclasses import dataclass
 from typing import Callable
 
 
+def mean_squared_error_gd(y, tx, initial_w, max_iters, gamma):
+    """Minimize 1/(2N) * ||y - tx w||^2 by gradient descent.
+
+    Args:
+        y: labels, shape (N,).
+        tx: feature matrix, shape (N, D).
+        initial_w: starting weights, shape (D,).
+        max_iters: number of gradient descent steps.
+        gamma: step size.
+
+    Returns:
+        w: weights after the last step, shape (D,).
+        loss: the MSE at the returned weights, computed on all samples.
+    """
+    w = initial_w.copy()
+    for _ in range(max_iters):
+        error = tx @ w - y
+        grad = tx.T @ error / len(y)
+        w = w - gamma * grad
+
+    error = y - tx @ w
+    loss = np.mean(error**2) / 2
+    return w, loss
+
+
+def mean_squared_error_sgd(y, tx, initial_w, max_iters, gamma):
+    """Minimize 1/(2N) * ||y - tx w||^2 by stochastic gradient descent.
+
+    Each step samples one training example uniformly with replacement.
+    Use np.random.seed before calling to reproduce the sampled examples.
+
+    Args:
+        y: labels, shape (N,).
+        tx: feature matrix, shape (N, D).
+        initial_w: starting weights, shape (D,).
+        max_iters: number of single-example gradient steps (batch size 1).
+        gamma: step size.
+
+    Returns:
+        w: weights after the last step, shape (D,).
+        loss: the MSE at the returned weights, computed on all samples.
+    """
+    w = initial_w.copy()
+    for _ in range(max_iters):
+        index = np.random.randint(len(y))
+        error = tx[index] @ w - y[index]
+        grad = tx[index] * error
+        w = w - gamma * grad
+
+    error = y - tx @ w
+    loss = np.mean(error**2) / 2
+    return w, loss
+
+
 def least_squares(y, tx):
     """Least squares regression solved with the normal equations.
 
@@ -20,11 +74,12 @@ def least_squares(y, tx):
     """
     rhs = tx.T @ y
     lin = tx.T @ tx
-    w_hat = np.linalg.solve(lin,rhs)
+    w_hat = np.linalg.solve(lin, rhs)
 
-    loss = 1/(2*tx.shape[0]) * np.transpose(y - tx @ w_hat) @ (y - tx @ w_hat)
+    error = y - tx @ w_hat
+    loss = np.mean(error**2) / 2
 
-    return (w_hat, loss.item())
+    return w_hat, loss
 
 def ridge_regression(y, tx, lambda_):
     """Ridge regression solved with the normal equations.
